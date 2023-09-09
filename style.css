@@ -1,0 +1,34 @@
+/* Header Start */
+header{
+    background-color: grey;
+    padding: 10px;
+}
+header h1{
+    color:#fff;
+    margin-bottom: 0px;
+}
+/* Header End */
+
+/* Main Section Start */
+.main-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+}
+.play-icon-content{
+    font-size: 70px;
+}
+.play-icon{
+    font-size: 54px;
+    color:#008000;
+}
+.counter-number{
+    font-size: 70px;
+}
+.followers{
+    display: none;
+    font-size: 30px;
+}
+/* Main Section End */
